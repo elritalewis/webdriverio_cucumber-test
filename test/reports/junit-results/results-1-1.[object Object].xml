@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Performing_a_Yahoo_Search" timestamp="2020-11-06T11:22:28" time="14.754" tests="2" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="featureName" value="Performing a Yahoo Search"/>
+      <property name="capabilities" value="firefox.63_0.windows"/>
+      <property name="featureFile" value=".\test\features\yahoo-search.feature"/>
+    </properties>
+    <testcase classname="CucumberJUnitReport-firefox.63_0.windows.Performing_a_Yahoo_Search" name="Performing_a_Yahoo_Search.Performing_a_search_operation" time="8.09">
+      <system-out>
+        <![CDATA[
+✅ Given I am on the search page✅ When I enter "Selenium Webdriver" into the search box✅ And I click the search button✅ Then I should see a list of search results
+]]>
+      </system-out>
+    </testcase>
+    <testcase classname="CucumberJUnitReport-firefox.63_0.windows.Performing_a_Yahoo_Search" name="Performing_a_Yahoo_Search.Performing_a_search_operation_with_passing_test_data_as_data_table" time="6.594">
+      <system-out>
+        <![CDATA[
+✅ Given I am on the search page✅ When I enter "Selenium Webdriver" into the search box✅ And I click the search button✅ Then I should see a list of search results
+]]>
+      </system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
