@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Validating_Volvo_home_page_headers" timestamp="2020-11-08T21:51:33" time="29.568" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="featureName" value="Validating Volvo home page headers"/>
+      <property name="capabilities" value="chrome.64_0_3282_140.linux"/>
+      <property name="featureFile" value=".\test\features\volvohomepage.feature"/>
+    </properties>
+    <testcase classname="CucumberJUnitReport-chrome.64_0_3282_140.linux.Validating_Volvo_home_page_headers" name="Validating_Volvo_home_page_headers.Validating_the_header_links" time="29.546">
+      <system-out>
+        <![CDATA[
+✅ Given I am on the volvo home page✅ When I see the header Cars and side navigator✅ When I click on "Cars"✅ Then "Cars" section should fly out✅ When I click on "side navigator"✅ Then "side navigator" section should fly out
+]]>
+      </system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

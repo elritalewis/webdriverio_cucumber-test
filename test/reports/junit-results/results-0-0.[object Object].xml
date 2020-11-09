@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Validating_Cars_purchase" timestamp="2020-11-08T21:51:33" time="79.498" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="featureName" value="Validating Cars purchase"/>
+      <property name="capabilities" value="chrome.64_0_3282_140.linux"/>
+      <property name="featureFile" value=".\test\features\volvocarssection.feature"/>
+    </properties>
+    <testcase classname="CucumberJUnitReport-chrome.64_0_3282_140.linux.Validating_Cars_purchase" name="Validating_Cars_purchase.Validating_Mild_Hybrids_V60_Car" time="79.469">
+      <system-out>
+        <![CDATA[
+✅ Given I am on the volvo home page✅ When I click on "Cars"✅ When I click on "Mild hybrids" car type✅ When I select a "Mild hybrids" "V60" car model✅ When I select "Shop" to buy car✅ When I select "Momentum" car style✅ When I select "B3 mild hybrid" Momemtum car style✅ When I select Wheels and select "wheel type"✅ When I select Interior and select "interior stlye"✅ When I select Exterior styling and click on Continue to Packages✅ When I select Packages as Power Seats✅ When I select Optional Equipment as Four-zone climate system✅ Then I click on Summary
+]]>
+      </system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

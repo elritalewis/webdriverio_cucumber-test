@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="Performing_a_login" timestamp="2020-11-06T11:22:26" time="7.761" tests="1" failures="0" errors="0" skipped="0">
+  <testsuite name="Validating_Cars_purchase" timestamp="2020-11-08T21:50:14" time="42.281" tests="1" failures="0" errors="1" skipped="0">
     <properties>
       <property name="specId" value="0"/>
-      <property name="featureName" value="Performing a login"/>
-      <property name="capabilities" value="firefox.63_0.windows"/>
-      <property name="featureFile" value=".\test\features\herokuapp-login.feature"/>
+      <property name="featureName" value="Validating Cars purchase"/>
+      <property name="capabilities" value="firefox.58_0_1.linux"/>
+      <property name="featureFile" value=".\test\features\volvocarssection.feature"/>
     </properties>
-    <testcase classname="CucumberJUnitReport-firefox.63_0.windows.Performing_a_login" name="Performing_a_login.Performing_login_operation_with_passing_test_data_as_data_table" time="7.538">
+    <testcase classname="CucumberJUnitReport-firefox.58_0_1.linux.Validating_Cars_purchase" name="Validating_Cars_purchase.Validating_Mild_Hybrids_V60_Car" time="42.211">
+      <error message="Element &lt;a class=&quot;navigation-item__linkWithSubtext--gyKNj navigation-item__buttonWithSubtext--3zPyi navigation-item__button--1twV1&quot; href=&quot;/intl/build/estate/v60/momentum/b3-mild-hybrid/personalize/wheels?s=DEZDBYZ&quot;> is not clickable at point (425.0500030517578,101) because another element &lt;header class=&quot;engine-list__topHeader--17zN-&quot;> obscures it"/>
       <system-out>
         <![CDATA[
-✅ Given I am on the herokuapp login page✅ When I login with username and password "tomsmith" "SuperSecretPassword!" into the text box✅ Then I should see the message "Welcome to the Secure Area. When you are done click logout below." on the landing page
+✅ Given I am on the volvo home page✅ When I click on "Cars"✅ When I click on "Mild hybrids" car type✅ When I select a "Mild hybrids" "V60" car model✅ When I select "Shop" to buy car✅ When I select "Momentum" car style✅ When I select "B3 mild hybrid" Momemtum car style❗ When I select Wheels and select "wheel type"⚠️ When I select Interior and select "interior stlye"
+⚠️ When I select Exterior styling and click on Continue to Packages
+⚠️ When I select Packages as Power Seats
+⚠️ When I select Optional Equipment as Four-zone climate system
+⚠️ Then I click on Summary
 ]]>
       </system-out>
+      <system-err>
+        <![CDATA[
+element click intercepted: Element <a class="navigation-item__linkWithSubtext--gyKNj navigation-item__buttonWithSubtext--3zPyi navigation-item__button--1twV1" href="/intl/build/estate/v60/momentum/b3-mild-hybrid/personalize/wheels?s=DEZDBYZ"> is not clickable at point (425.0500030517578,101) because another element <header class="engine-list__topHeader--17zN-"> obscures it
+    at Object.getErrorFromResponseBody (C:\Users\user\source\repos\webdriverio_cucumberFW-test\node_modules\webdriver\build\utils.js:94:12)
+    at WebDriverRequest._request (C:\Users\user\source\repos\webdriverio_cucumberFW-test\node_modules\webdriver\build\request.js:133:31)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at Element.elementErrorHandlerCallbackFn (C:\Users\user\source\repos\webdriverio_cucumberFW-test\node_modules\webdriverio\build\middlewares.js:17:32)
+    at Element.runCommandWithHooks (C:\Users\user\source\repos\webdriverio_cucumberFW-test\node_modules\@wdio\sync\build\wrapCommand.js:70:25)
+    at Element.runCommandWithHooks (C:\Users\user\source\repos\webdriverio_cucumberFW-test\node_modules\@wdio\sync\build\wrapCommand.js:65:24)
+    at Element.wrapCommandFn (C:\Users\user\source\repos\webdriverio_cucumberFW-test\node_modules\@wdio\sync\build\wrapCommand.js:44:44)
+    at Element.elementErrorHandlerCallback (C:\Users\user\source\repos\webdriverio_cucumberFW-test\node_modules\webdriverio\build\middlewares.js:34:12)
+    at VolvoCarShopSectionPage.selectCarWheels (C:\Users\user\source\repos\webdriverio_cucumberFW-test\test\pageobjects\VolvoCarShopSection.page.js:147:20)
+    at World.<anonymous> (C:\Users\user\source\repos\webdriverio_cucumberFW-test\test\stepDefinitions\when.js:65:32)
+    at World.executeSync (C:\Users\user\source\repos\webdriverio_cucumberFW-test\node_modules\@wdio\sync\build\index.js:25:22)
+    at C:\Users\user\source\repos\webdriverio_cucumberFW-test\node_modules\@wdio\sync\build\index.js:46:68
+]]>
+      </system-err>
     </testcase>
   </testsuite>
 </testsuites>

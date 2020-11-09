@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="Performing_a_Yahoo_Search" timestamp="2020-11-06T11:22:28" time="14.754" tests="2" failures="0" errors="0" skipped="0">
+  <testsuite name="Validating_Volvo_home_page_headers" timestamp="2020-11-08T21:49:27" time="35.508" tests="1" failures="0" errors="0" skipped="0">
     <properties>
       <property name="specId" value="0"/>
-      <property name="featureName" value="Performing a Yahoo Search"/>
-      <property name="capabilities" value="firefox.63_0.windows"/>
-      <property name="featureFile" value=".\test\features\yahoo-search.feature"/>
+      <property name="featureName" value="Validating Volvo home page headers"/>
+      <property name="capabilities" value="firefox.58_0_1.linux"/>
+      <property name="featureFile" value=".\test\features\volvohomepage.feature"/>
     </properties>
-    <testcase classname="CucumberJUnitReport-firefox.63_0.windows.Performing_a_Yahoo_Search" name="Performing_a_Yahoo_Search.Performing_a_search_operation" time="8.09">
+    <testcase classname="CucumberJUnitReport-firefox.58_0_1.linux.Validating_Volvo_home_page_headers" name="Validating_Volvo_home_page_headers.Validating_the_header_links" time="35.472">
       <system-out>
         <![CDATA[
-✅ Given I am on the search page✅ When I enter "Selenium Webdriver" into the search box✅ And I click the search button✅ Then I should see a list of search results
-]]>
-      </system-out>
-    </testcase>
-    <testcase classname="CucumberJUnitReport-firefox.63_0.windows.Performing_a_Yahoo_Search" name="Performing_a_Yahoo_Search.Performing_a_search_operation_with_passing_test_data_as_data_table" time="6.594">
-      <system-out>
-        <![CDATA[
-✅ Given I am on the search page✅ When I enter "Selenium Webdriver" into the search box✅ And I click the search button✅ Then I should see a list of search results
+✅ Given I am on the volvo home page✅ When I see the header Cars and side navigator✅ When I click on "Cars"✅ Then "Cars" section should fly out✅ When I click on "side navigator"✅ Then "side navigator" section should fly out
 ]]>
       </system-out>
     </testcase>
