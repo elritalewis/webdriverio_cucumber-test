@@ -32,7 +32,7 @@
     "docker",
     "retry"
   ],
-  "homepage": "https://bitbucket.org/elritalewis/webdriverio_cucumberfw-test#readme",
+  "homepage": "https://github.com/elritalewis/webdriverio_cucumber-test.git#readme",
   "dependencies": {
     "webdriver-image-comparison": "0.15.0"
   },
