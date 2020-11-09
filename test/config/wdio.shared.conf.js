@@ -1,5 +1,7 @@
 const path = require('path');
 const defaultTimeoutInterval = process.env.DEBUG ? (60 * 60 * 500) : 90000;
+const RerunService = require('wdio-rerun-service');
+
 
 exports.config = {
     //
@@ -28,7 +30,7 @@ exports.config = {
     ],
     //
     // ============
-    // Capabilities
+   //host
     // ============
     // Define your capabilities here. WebdriverIO can run multiple capabilities at the same
     // time. Depending on the number of capabilities, WebdriverIO launches several test
@@ -42,7 +44,7 @@ exports.config = {
     // and 30 processes will get spawned. The property handles how many capabilities
     // from the same test should run tests.
     //
-    maxInstances: 15,
+    maxInstances: 20,
     //
     // ===================
     // Test Configurations
@@ -50,7 +52,7 @@ exports.config = {
     // Define all options that are relevant for the WebdriverIO instance here
     //
     // Level of logging verbosity: trace | debug | info | warn | error | silent
-    logLevel: 'trace',
+    logLevel: 'debug',
     outputDir: path.resolve(__dirname, '../../logs'),
     //
     // Set specific log levels per logger
@@ -75,7 +77,7 @@ exports.config = {
     // with `/`, the base url gets prepended, not including the path portion of your baseUrl.
     // If your `url` parameter starts without a scheme or `/` (like `some/path`), the base url
     // gets prepended directly.
-    baseUrl: 'http://the-internet.herokuapp.com',
+    baseUrl: 'https://www.volvocars.com',
     //
     // Default timeout for all waitFor* commands.
     waitforTimeout: 10000,
@@ -125,6 +127,13 @@ exports.config = {
       }],
 
     ],
+    services: [
+        [RerunService, {
+            rerunDataDir: './test/custom-rerun-directory'
+        }],
+     ],
+        
+    
 
 
     // If you are using Cucumber you need to specify the location of your step definitions.
