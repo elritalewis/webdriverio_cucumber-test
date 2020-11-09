@@ -1,15 +1,19 @@
 import { Given} from 'cucumber';
-import loginPage from '../pageobjects/herokuapp-login.page';
-import yahooPage from '../pageobjects/yahoo-search.page';
+
+import volvoHomePage from '../pageobjects/VolvoHome.Page';
+
 
 
 // *** belongs to Yahoo serch feature
-Given(/^I am on the search page$/, function () {
-  yahooPage.open();
-  browser.getTitle().should.equal('Yahoo Search - Web Search');
-});
-
-Given('I am on the herokuapp login page', function () {
-  // Write code here that turns the phrase above into concrete actions
-  loginPage.open();     // navigating to login page
+Given(/^I am on the volvo home page$/, function () {
+    volvoHomePage.open();
+    browser.getTitle().should.equal('A million more | Volvo Cars');
+    const cookies = browser.getCookies();
+    console.log(cookies);
+    browser.setCookies({
+        name: '_ga', value:'GA1.2.2099791311.1604739575'
+    })
+    if (volvoHomePage.allowCookiesIsVisible().should.be.true) {
+        volvoHomePage.clickonAllowCookies();
+    }
 });
