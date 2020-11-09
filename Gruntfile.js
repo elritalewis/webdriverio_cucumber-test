@@ -12,6 +12,10 @@ module.exports = function(grunt) {
             'test-local': {
                 configFile: './test/config/wdio.local.conf.js'
             },
+            'test-docker': {
+                configFile: './test/config/wdio.docker.conf.js'
+            },
+
         },
     });
 
