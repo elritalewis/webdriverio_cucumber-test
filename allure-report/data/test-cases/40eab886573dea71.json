@@ -1,0 +1,82 @@
+{
+  "uid" : "40eab886573dea71",
+  "name" : "When I select Optional Equipment as Four-zone climate system",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Optional Equipment as Four-zone climate system",
+  "historyId" : "ba7cc8d634833fdbbc8cec612774ef55",
+  "time" : {
+    "start" : 1604852077484,
+    "stop" : 1604852083244,
+    "duration" : 5760
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Optional Equipment as Four-zone climate system"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "33f1b6022da753a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848892721,
+        "stop" : 1604848898488,
+        "duration" : 5767
+      }
+    }, {
+      "uid" : "b0d590d53feebc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604832096363,
+        "stop" : 1604832101230,
+        "duration" : 4867
+      }
+    }, {
+      "uid" : "a6889b82609d1909",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823478304,
+        "stop" : 1604823484783,
+        "duration" : 6479
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40eab886573dea71.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

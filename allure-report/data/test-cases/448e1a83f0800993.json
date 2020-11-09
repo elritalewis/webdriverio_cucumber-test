@@ -1,0 +1,90 @@
+{
+  "uid" : "448e1a83f0800993",
+  "name" : "When I select Packages as Power Seats",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Packages as Power Seats",
+  "historyId" : "a68a7dcf7d76c40ee427c95ed16864ce",
+  "time" : {
+    "start" : 1604852456698,
+    "stop" : 1604852456698,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Packages as Power Seats"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-58.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aeda45ba5021dbf",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604849661066,
+        "stop" : 1604849661067,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "15b81c22cb4609ec",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604848461380,
+        "stop" : 1604848461381,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "82724806bf170d10",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847937485,
+        "stop" : 1604847937485,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ef08ba815f6fdad9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847837809,
+        "stop" : 1604847837809,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "448e1a83f0800993.json",
+  "parameterValues" : [ "firefox-58.0.1" ]
+}

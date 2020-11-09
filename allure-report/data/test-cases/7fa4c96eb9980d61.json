@@ -1,0 +1,76 @@
+{
+  "uid" : "7fa4c96eb9980d61",
+  "name" : "Given I am on the volvo home page",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.Given I am on the volvo home page",
+  "historyId" : "afda00b8b16cc06fc67c4f0ab769cdc4",
+  "time" : {
+    "start" : 1604852367212,
+    "stop" : 1604852399491,
+    "duration" : 32279
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the volvo home page"
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-58.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5eaa8284d6056611",
+      "status" : "broken",
+      "statusDetails" : "Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.volvocars.com/intl/v/car-safety/a-million-more&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.volvocars.com.",
+      "time" : {
+        "start" : 1604847950309,
+        "stop" : 1604847951207,
+        "duration" : 898
+      }
+    }, {
+      "uid" : "ebc5b196446b0793",
+      "status" : "broken",
+      "statusDetails" : "Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.volvocars.com/intl/v/car-safety/a-million-more&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.volvocars.com.",
+      "time" : {
+        "start" : 1604847849863,
+        "stop" : 1604847851065,
+        "duration" : 1202
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7fa4c96eb9980d61.json",
+  "parameterValues" : [ "firefox-58.0.1" ]
+}

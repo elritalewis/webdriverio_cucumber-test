@@ -1,0 +1,90 @@
+{
+  "uid" : "165c4ccd9177152f",
+  "name" : "When I select Interior and select \"interior stlye\"",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Interior and select \"interior stlye\"",
+  "historyId" : "73ca2874f7fb0acac3c8416c3068cd0",
+  "time" : {
+    "start" : 1604852456696,
+    "stop" : 1604852456696,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Interior and select \"interior stlye\""
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-58.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "439c3a8b83445616",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604849661062,
+        "stop" : 1604849661063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b211638e86e6a5d9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604848461379,
+        "stop" : 1604848461380,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8a0aa27ef2455046",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847937484,
+        "stop" : 1604847937484,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e848b3d939e22cba",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847837806,
+        "stop" : 1604847837808,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "165c4ccd9177152f.json",
+  "parameterValues" : [ "firefox-58.0.1" ]
+}

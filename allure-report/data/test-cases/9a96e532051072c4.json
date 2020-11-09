@@ -1,0 +1,90 @@
+{
+  "uid" : "9a96e532051072c4",
+  "name" : "When I select \"B3 mild hybrid\" Momemtum car style",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select \"B3 mild hybrid\" Momemtum car style",
+  "historyId" : "7fd1d1835e64b20665e7bdcb077dc0d2",
+  "time" : {
+    "start" : 1604852449875,
+    "stop" : 1604852453851,
+    "duration" : 3976
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select \"B3 mild hybrid\" Momemtum car style"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-58.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "af9d46361b98bb82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604849632105,
+        "stop" : 1604849644867,
+        "duration" : 12762
+      }
+    }, {
+      "uid" : "254b325c6cd4b0c3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604848461377,
+        "stop" : 1604848461378,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c6234a0eaa8dc596",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847937482,
+        "stop" : 1604847937483,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ce184a4655aa48aa",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847837805,
+        "stop" : 1604847837805,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a96e532051072c4.json",
+  "parameterValues" : [ "firefox-58.0.1" ]
+}

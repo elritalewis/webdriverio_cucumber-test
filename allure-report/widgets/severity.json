@@ -1,0 +1,1051 @@
+[ {
+  "uid" : "6af0da95c87390f0",
+  "name" : "When I click on \"Mild hybrids\" car type",
+  "time" : {
+    "start" : 1604852522637,
+    "stop" : 1604852523841,
+    "duration" : 1204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d4d4dcecea473ab",
+  "name" : "When I select \"Shop\" to buy car",
+  "time" : {
+    "start" : 1604851828340,
+    "stop" : 1604851835458,
+    "duration" : 7118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8a71085baa009f8",
+  "name" : "When I see the header Cars and side navigator",
+  "time" : {
+    "start" : 1604852009325,
+    "stop" : 1604852011884,
+    "duration" : 2559
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ae8f99d7387ad50",
+  "name" : "When I click on \"side navigator\"",
+  "time" : {
+    "start" : 1604852401329,
+    "stop" : 1604852402447,
+    "duration" : 1118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ad5a87e04dc5f85",
+  "name" : "When I select Packages as Power Seats",
+  "time" : {
+    "start" : 1604852066604,
+    "stop" : 1604852077484,
+    "duration" : 10880
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a96e532051072c4",
+  "name" : "When I select \"B3 mild hybrid\" Momemtum car style",
+  "time" : {
+    "start" : 1604852449875,
+    "stop" : 1604852453851,
+    "duration" : 3976
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64c8f0572fb76ec6",
+  "name" : "When I click on \"Mild hybrids\" car type",
+  "time" : {
+    "start" : 1604851895461,
+    "stop" : 1604851896821,
+    "duration" : 1360
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e00700bc8ae361f",
+  "name" : "Then I click on Summary",
+  "time" : {
+    "start" : 1604851865596,
+    "stop" : 1604851868223,
+    "duration" : 2627
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebf8ce36062a32ef",
+  "name" : "When I select \"Momentum\" car style",
+  "time" : {
+    "start" : 1604852445866,
+    "stop" : 1604852449874,
+    "duration" : 4008
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22dc0c28b25a1fa1",
+  "name" : "Given I am on the volvo home page",
+  "time" : {
+    "start" : 1604851809816,
+    "stop" : 1604851822301,
+    "duration" : 12485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "246585593b24351f",
+  "name" : "When I select Exterior styling and click on Continue to Packages",
+  "time" : {
+    "start" : 1604851852852,
+    "stop" : 1604851858087,
+    "duration" : 5235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58e1a32f522cd41b",
+  "name" : "Given I am on the volvo home page",
+  "time" : {
+    "start" : 1604852493636,
+    "stop" : 1604852518819,
+    "duration" : 25183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "165c4ccd9177152f",
+  "name" : "When I select Interior and select \"interior stlye\"",
+  "time" : {
+    "start" : 1604852456696,
+    "stop" : 1604852456696,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2618e299cb5d72f8",
+  "name" : "Then \"side navigator\" section should fly out",
+  "time" : {
+    "start" : 1604852402448,
+    "stop" : 1604852402649,
+    "duration" : 201
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "897fe6cdb979eb22",
+  "name" : "When I select Exterior styling and click on Continue to Packages",
+  "time" : {
+    "start" : 1604852557498,
+    "stop" : 1604852562768,
+    "duration" : 5270
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3cb2b841434bb36f",
+  "name" : "When I select Optional Equipment as Four-zone climate system",
+  "time" : {
+    "start" : 1604851863161,
+    "stop" : 1604851865595,
+    "duration" : 2434
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f3e398d819b62ea",
+  "name" : "Then I click on Summary",
+  "time" : {
+    "start" : 1604852570607,
+    "stop" : 1604852573090,
+    "duration" : 2483
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15366b6d19ab60d7",
+  "name" : "When I click on \"Cars\"",
+  "time" : {
+    "start" : 1604852519430,
+    "stop" : 1604852521152,
+    "duration" : 1722
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b58880c9f61d2148",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1604852456701,
+    "stop" : 1604852456703,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa3ca3fdc8585f96",
+  "name" : "When I click on \"Cars\"",
+  "time" : {
+    "start" : 1604852011884,
+    "stop" : 1604852013668,
+    "duration" : 1784
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4dc28aaefe1a93f3",
+  "name" : "When I select Wheels and select \"wheel type\"",
+  "time" : {
+    "start" : 1604852547527,
+    "stop" : 1604852552563,
+    "duration" : 5036
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d228b154bae5a670",
+  "name" : "Then \"side navigator\" section should fly out",
+  "time" : {
+    "start" : 1604851895483,
+    "stop" : 1604851895558,
+    "duration" : 75
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae33be4cd3fab1f9",
+  "name" : "Then \"side navigator\" section should fly out",
+  "time" : {
+    "start" : 1604851824467,
+    "stop" : 1604851824630,
+    "duration" : 163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b3f5f62df913a2a",
+  "name" : "Then \"side navigator\" section should fly out",
+  "time" : {
+    "start" : 1604852522778,
+    "stop" : 1604852523146,
+    "duration" : 368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c7052782cc13987",
+  "name" : "When I select \"B3 mild hybrid\" Momemtum car style",
+  "time" : {
+    "start" : 1604851918861,
+    "stop" : 1604851921970,
+    "duration" : 3109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3feb292e393538a7",
+  "name" : "Given I am on the volvo home page",
+  "time" : {
+    "start" : 1604852414533,
+    "stop" : 1604852426025,
+    "duration" : 11492
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cbff24636e517dc",
+  "name" : "When I click on \"Cars\"",
+  "time" : {
+    "start" : 1604852426025,
+    "stop" : 1604852428058,
+    "duration" : 2033
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c66a3272026815bf",
+  "name" : "When I select a \"Mild hybrids\" \"V60\" car model",
+  "time" : {
+    "start" : 1604852428482,
+    "stop" : 1604852438421,
+    "duration" : 9939
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22bab9ecc428ac1e",
+  "name" : "When I click on \"side navigator\"",
+  "time" : {
+    "start" : 1604851894016,
+    "stop" : 1604851895483,
+    "duration" : 1467
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf2676745d681947",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1604851895558,
+    "stop" : 1604851895559,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "714f6dcb76b50446",
+  "name" : "When I select a \"Mild hybrids\" \"V60\" car model",
+  "time" : {
+    "start" : 1604851896821,
+    "stop" : 1604851907156,
+    "duration" : 10335
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff530887b510b58a",
+  "name" : "Given I am on the volvo home page",
+  "time" : {
+    "start" : 1604852493657,
+    "stop" : 1604852520691,
+    "duration" : 27034
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "300a4cb94610b8ac",
+  "name" : "Given I am on the volvo home page",
+  "time" : {
+    "start" : 1604851989459,
+    "stop" : 1604852009325,
+    "duration" : 19866
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6328cd93c5029c3",
+  "name" : "Given I am on the volvo home page",
+  "time" : {
+    "start" : 1604851853424,
+    "stop" : 1604851893046,
+    "duration" : 39622
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e9f1806c8c54803",
+  "name" : "When I see the header Cars and side navigator",
+  "time" : {
+    "start" : 1604852518819,
+    "stop" : 1604852519430,
+    "duration" : 611
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce5fa6c592a97ee1",
+  "name" : "When I click on \"side navigator\"",
+  "time" : {
+    "start" : 1604851823858,
+    "stop" : 1604851824466,
+    "duration" : 608
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af299fcea542a035",
+  "name" : "When I click on \"Cars\"",
+  "time" : {
+    "start" : 1604851818823,
+    "stop" : 1604851821125,
+    "duration" : 2302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1395249ffc8eca2",
+  "name" : "When I select \"Shop\" to buy car",
+  "time" : {
+    "start" : 1604852016046,
+    "stop" : 1604852022764,
+    "duration" : 6718
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3f47124579d412",
+  "name" : "When I select a \"Mild hybrids\" \"V60\" car model",
+  "time" : {
+    "start" : 1604851821519,
+    "stop" : 1604851828340,
+    "duration" : 6821
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d5c7b069f0e341c",
+  "name" : "When I select \"Shop\" to buy car",
+  "time" : {
+    "start" : 1604852535513,
+    "stop" : 1604852541729,
+    "duration" : 6216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fd63cac936320ce",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1604852573091,
+    "stop" : 1604852573092,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d613967073706ea2",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1604852523146,
+    "stop" : 1604852523148,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2182325324c959da",
+  "name" : "When I click on \"side navigator\"",
+  "time" : {
+    "start" : 1604852014561,
+    "stop" : 1604852016046,
+    "duration" : 1485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee91399fce0be378",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1604851824631,
+    "stop" : 1604851824632,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ba25895e7ceebec",
+  "name" : "Then \"side navigator\" section should fly out",
+  "time" : {
+    "start" : 1604852016046,
+    "stop" : 1604852017108,
+    "duration" : 1062
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d88b2086211e45cd",
+  "name" : "When I select Packages as Power Seats",
+  "time" : {
+    "start" : 1604852562769,
+    "stop" : 1604852568055,
+    "duration" : 5286
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "990a9e1503ec2166",
+  "name" : "When I see the header Cars and side navigator",
+  "time" : {
+    "start" : 1604852399491,
+    "stop" : 1604852399705,
+    "duration" : 214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e462fae7b18633f",
+  "name" : "When I click on \"Mild hybrids\" car type",
+  "time" : {
+    "start" : 1604852428058,
+    "stop" : 1604852428482,
+    "duration" : 424
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa626d892e5fc3b8",
+  "name" : "When I click on \"Mild hybrids\" car type",
+  "time" : {
+    "start" : 1604852009325,
+    "stop" : 1604852010694,
+    "duration" : 1369
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da7a09d0999726f5",
+  "name" : "When I click on \"Cars\"",
+  "time" : {
+    "start" : 1604852399705,
+    "stop" : 1604852400971,
+    "duration" : 1266
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "467235690f975361",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1604851950820,
+    "stop" : 1604851950821,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebe7688163586444",
+  "name" : "When I select Exterior styling and click on Continue to Packages",
+  "time" : {
+    "start" : 1604852456697,
+    "stop" : 1604852456698,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "915692f28649758d",
+  "name" : "When I click on \"side navigator\"",
+  "time" : {
+    "start" : 1604852521648,
+    "stop" : 1604852522777,
+    "duration" : 1129
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c49dc264531d68a",
+  "name" : "When I select Exterior styling and click on Continue to Packages",
+  "time" : {
+    "start" : 1604852055405,
+    "stop" : 1604852066603,
+    "duration" : 11198
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6a9927767e1f72a",
+  "name" : "When I see the header Cars and side navigator",
+  "time" : {
+    "start" : 1604851822302,
+    "stop" : 1604851822699,
+    "duration" : 397
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c03e295e5858167",
+  "name" : "When I select a \"Mild hybrids\" \"V60\" car model",
+  "time" : {
+    "start" : 1604852010694,
+    "stop" : 1604852016045,
+    "duration" : 5351
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "448e1a83f0800993",
+  "name" : "When I select Packages as Power Seats",
+  "time" : {
+    "start" : 1604852456698,
+    "stop" : 1604852456698,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f32c63bfd7886556",
+  "name" : "When I select Packages as Power Seats",
+  "time" : {
+    "start" : 1604851938429,
+    "stop" : 1604851944409,
+    "duration" : 5980
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50630be51e9a74f1",
+  "name" : "When I select Interior and select \"interior stlye\"",
+  "time" : {
+    "start" : 1604852552563,
+    "stop" : 1604852557497,
+    "duration" : 4934
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa39a4d33bb1b3ff",
+  "name" : "When I select Wheels and select \"wheel type\"",
+  "time" : {
+    "start" : 1604851921970,
+    "stop" : 1604851927524,
+    "duration" : 5554
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "985dd513e320e46d",
+  "name" : "When I select Packages as Power Seats",
+  "time" : {
+    "start" : 1604851858087,
+    "stop" : 1604851863161,
+    "duration" : 5074
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "119b12f3ce48e8dd",
+  "name" : "When I select Wheels and select \"wheel type\"",
+  "time" : {
+    "start" : 1604852033005,
+    "stop" : 1604852044463,
+    "duration" : 11458
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "934aa7e24ba81a7b",
+  "name" : "When I click on \"Cars\"",
+  "time" : {
+    "start" : 1604851822700,
+    "stop" : 1604851823702,
+    "duration" : 1002
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2119ea7fdaea2f6e",
+  "name" : "When I select \"Shop\" to buy car",
+  "time" : {
+    "start" : 1604851907157,
+    "stop" : 1604851915427,
+    "duration" : 8270
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd57a743b4f48eb0",
+  "name" : "Then I click on Summary",
+  "time" : {
+    "start" : 1604851948314,
+    "stop" : 1604851950820,
+    "duration" : 2506
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "237db0fd4f1e5c06",
+  "name" : "Then I click on Summary",
+  "time" : {
+    "start" : 1604852456699,
+    "stop" : 1604852456700,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "40eab886573dea71",
+  "name" : "When I select Optional Equipment as Four-zone climate system",
+  "time" : {
+    "start" : 1604852077484,
+    "stop" : 1604852083244,
+    "duration" : 5760
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aeb4455b73c52677",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1604852088045,
+    "stop" : 1604852088047,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc321487c07de468",
+  "name" : "Then I click on Summary",
+  "time" : {
+    "start" : 1604852083244,
+    "stop" : 1604852088045,
+    "duration" : 4801
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c606490728d75b12",
+  "name" : "When I click on \"Cars\"",
+  "time" : {
+    "start" : 1604851891296,
+    "stop" : 1604851893516,
+    "duration" : 2220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6da5dbd07754fe36",
+  "name" : "When I click on \"Cars\"",
+  "time" : {
+    "start" : 1604851893046,
+    "stop" : 1604851895461,
+    "duration" : 2415
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "906e27a40c5cd16b",
+  "name" : "Then \"Cars\" section should fly out",
+  "time" : {
+    "start" : 1604852521152,
+    "stop" : 1604852521648,
+    "duration" : 496
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfee9592bba56b5",
+  "name" : "When I see the header Cars and side navigator",
+  "time" : {
+    "start" : 1604851890918,
+    "stop" : 1604851891296,
+    "duration" : 378
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a1dc024d6c8b586",
+  "name" : "Then \"Cars\" section should fly out",
+  "time" : {
+    "start" : 1604851823702,
+    "stop" : 1604851823857,
+    "duration" : 155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdd463c1ed37335d",
+  "name" : "Given I am on the volvo home page",
+  "time" : {
+    "start" : 1604851807530,
+    "stop" : 1604851818822,
+    "duration" : 11292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2ee45714d1627e5",
+  "name" : "When I select \"B3 mild hybrid\" Momemtum car style",
+  "time" : {
+    "start" : 1604851838872,
+    "stop" : 1604851841753,
+    "duration" : 2881
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fa4c96eb9980d61",
+  "name" : "Given I am on the volvo home page",
+  "time" : {
+    "start" : 1604852367212,
+    "stop" : 1604852399491,
+    "duration" : 32279
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de44bbf9f3f13efc",
+  "name" : "When I select Wheels and select \"wheel type\"",
+  "time" : {
+    "start" : 1604852453851,
+    "stop" : 1604852456695,
+    "duration" : 2844
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "95ceec7ab4387b63",
+  "name" : "When I select \"Momentum\" car style",
+  "time" : {
+    "start" : 1604851915427,
+    "stop" : 1604851918860,
+    "duration" : 3433
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "955294f3d968300a",
+  "name" : "When I select a \"Mild hybrids\" \"V60\" car model",
+  "time" : {
+    "start" : 1604852523841,
+    "stop" : 1604852535512,
+    "duration" : 11671
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ca2a5f422032ca2",
+  "name" : "Then \"Cars\" section should fly out",
+  "time" : {
+    "start" : 1604851893516,
+    "stop" : 1604851894016,
+    "duration" : 500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b78c736d8250783",
+  "name" : "Then \"Cars\" section should fly out",
+  "time" : {
+    "start" : 1604852013668,
+    "stop" : 1604852014561,
+    "duration" : 893
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eeea4e18d305d46b",
+  "name" : "When I select \"B3 mild hybrid\" Momemtum car style",
+  "time" : {
+    "start" : 1604852027747,
+    "stop" : 1604852033005,
+    "duration" : 5258
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54e0eb071d80ce18",
+  "name" : "When I select \"Momentum\" car style",
+  "time" : {
+    "start" : 1604852541729,
+    "stop" : 1604852544738,
+    "duration" : 3009
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47c613c9aee16874",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1604852402649,
+    "stop" : 1604852402650,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9327b146033b54c7",
+  "name" : "When I click on \"Mild hybrids\" car type",
+  "time" : {
+    "start" : 1604851821127,
+    "stop" : 1604851821519,
+    "duration" : 392
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d22d7d3fb53aa56",
+  "name" : "When I select Interior and select \"interior stlye\"",
+  "time" : {
+    "start" : 1604851927524,
+    "stop" : 1604851932728,
+    "duration" : 5204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfb1cececb0096eb",
+  "name" : "Given I am on the volvo home page",
+  "time" : {
+    "start" : 1604851853564,
+    "stop" : 1604851890917,
+    "duration" : 37353
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9028d0f40ff083e8",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1604852017108,
+    "stop" : 1604852017109,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcd59676eb33bc58",
+  "name" : "When I select Interior and select \"interior stlye\"",
+  "time" : {
+    "start" : 1604851846712,
+    "stop" : 1604851852852,
+    "duration" : 6140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71e3184e8623d3c1",
+  "name" : "Then \"Cars\" section should fly out",
+  "time" : {
+    "start" : 1604852400971,
+    "stop" : 1604852401328,
+    "duration" : 357
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad914e832145c47f",
+  "name" : "When I select \"Momentum\" car style",
+  "time" : {
+    "start" : 1604851835459,
+    "stop" : 1604851838871,
+    "duration" : 3412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad40287d63652fb5",
+  "name" : "When I select Exterior styling and click on Continue to Packages",
+  "time" : {
+    "start" : 1604851932728,
+    "stop" : 1604851938428,
+    "duration" : 5700
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4619dc92d04fa437",
+  "name" : "When I click on \"Cars\"",
+  "time" : {
+    "start" : 1604852520692,
+    "stop" : 1604852522636,
+    "duration" : 1944
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "260c44b8d3dc015",
+  "name" : "When I click on \"Cars\"",
+  "time" : {
+    "start" : 1604852007968,
+    "stop" : 1604852009325,
+    "duration" : 1357
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9893fe770dd0ff0e",
+  "name" : "When I select Interior and select \"interior stlye\"",
+  "time" : {
+    "start" : 1604852044463,
+    "stop" : 1604852055405,
+    "duration" : 10942
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f0a0e65636b74b2",
+  "name" : "When I select Optional Equipment as Four-zone climate system",
+  "time" : {
+    "start" : 1604852568055,
+    "stop" : 1604852570606,
+    "duration" : 2551
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12877969275ba2ca",
+  "name" : "When I select \"Momentum\" car style",
+  "time" : {
+    "start" : 1604852022764,
+    "stop" : 1604852027746,
+    "duration" : 4982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70e633e4a3b78101",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1604851868224,
+    "stop" : 1604851868225,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5badcb6f7f47ea24",
+  "name" : "When I select Wheels and select \"wheel type\"",
+  "time" : {
+    "start" : 1604851841754,
+    "stop" : 1604851846712,
+    "duration" : 4958
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60cb1f2d85cf96fc",
+  "name" : "Given I am on the volvo home page",
+  "time" : {
+    "start" : 1604851989652,
+    "stop" : 1604852007967,
+    "duration" : 18315
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76ff5bad25ca2387",
+  "name" : "When I select Optional Equipment as Four-zone climate system",
+  "time" : {
+    "start" : 1604852456699,
+    "stop" : 1604852456699,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a51a4c75628b4c96",
+  "name" : "When I select Optional Equipment as Four-zone climate system",
+  "time" : {
+    "start" : 1604851944409,
+    "stop" : 1604851948314,
+    "duration" : 3905
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fea7efcbedac6474",
+  "name" : "When I select \"B3 mild hybrid\" Momemtum car style",
+  "time" : {
+    "start" : 1604852544738,
+    "stop" : 1604852547527,
+    "duration" : 2789
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74d713d13b97d50e",
+  "name" : "When I select \"Shop\" to buy car",
+  "time" : {
+    "start" : 1604852438421,
+    "stop" : 1604852445865,
+    "duration" : 7444
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

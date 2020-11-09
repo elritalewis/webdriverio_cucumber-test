@@ -1,0 +1,131 @@
+{
+  "uid" : "6da5dbd07754fe36",
+  "name" : "When I click on \"Cars\"",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I click on \"Cars\"",
+  "historyId" : "fa6b02d30570d37a8eb494d5b1aec1f7",
+  "time" : {
+    "start" : 1604851893046,
+    "stop" : 1604851895461,
+    "duration" : 2415
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on \"Cars\""
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-63.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fa65a990eec612d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848679104,
+        "stop" : 1604848681999,
+        "duration" : 2895
+      }
+    }, {
+      "uid" : "40960f6c2f4da905",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837534619,
+        "stop" : 1604837537046,
+        "duration" : 2427
+      }
+    }, {
+      "uid" : "888f5a4de95a6fcc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823273310,
+        "stop" : 1604823275426,
+        "duration" : 2116
+      }
+    }, {
+      "uid" : "1dfdcb6ba2aec700",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604818353896,
+        "stop" : 1604818355367,
+        "duration" : 1471
+      }
+    }, {
+      "uid" : "b95eee4c9768f5b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604814359142,
+        "stop" : 1604814362320,
+        "duration" : 3178
+      }
+    }, {
+      "uid" : "54ddbd4b1b6e33a9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604813526530,
+        "stop" : 1604813526532,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "557d92946f373cd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604812853278,
+        "stop" : 1604812855459,
+        "duration" : 2181
+      }
+    }, {
+      "uid" : "d13edd558aab6b8e",
+      "status" : "broken",
+      "statusDetails" : "Element <button class=\"ak b be bf bg bh bi bj bk bl bm bn bo bp bq br bs bt bu bv q\" type=\"button\"> is not clickable at point (1254.091682434082,32) because another element <div class=\"optanon-alert-box-bottom-top\"> obscures it",
+      "time" : {
+        "start" : 1604812035656,
+        "stop" : 1604812035808,
+        "duration" : 152
+      }
+    }, {
+      "uid" : "9f90aef268062365",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604763831730,
+        "stop" : 1604763833367,
+        "duration" : 1637
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6da5dbd07754fe36.json",
+  "parameterValues" : [ "firefox-63.0" ]
+}

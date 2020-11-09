@@ -1,0 +1,82 @@
+{
+  "uid" : "8ad5a87e04dc5f85",
+  "name" : "When I select Packages as Power Seats",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Packages as Power Seats",
+  "historyId" : "b903d0784c2b37faeba9e9cb63fd0081",
+  "time" : {
+    "start" : 1604852066604,
+    "stop" : 1604852077484,
+    "duration" : 10880
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Packages as Power Seats"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "be03cb8256f1b7f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848881884,
+        "stop" : 1604848892721,
+        "duration" : 10837
+      }
+    }, {
+      "uid" : "5f52b83bf5114c21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604832085580,
+        "stop" : 1604832096363,
+        "duration" : 10783
+      }
+    }, {
+      "uid" : "afc1fa50c6502faa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823467820,
+        "stop" : 1604823478304,
+        "duration" : 10484
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ad5a87e04dc5f85.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

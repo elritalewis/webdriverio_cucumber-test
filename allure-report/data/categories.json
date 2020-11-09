@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Element <a class=\"navigation-item__linkWithSubtext--gyKNj navigation-item__buttonWithSubtext--3zPyi navigation-item__button--1twV1\" href=\"/intl/build/estate/v60/momentum/b3-mild-hybrid/personalize/wheels?s=DEZDBYZ\"> is not clickable at point (425.0500030517578,101) because another element <header class=\"engine-list__topHeader--17zN-\"> obscures it",
+      "children" : [ {
+        "name" : "When I select Wheels and select \"wheel type\"",
+        "uid" : "de44bbf9f3f13efc",
+        "parentUid" : "cd6aac8792b5be483fb2eb9c6f8a366a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604852453851,
+          "stop" : 1604852456695,
+          "duration" : 2844
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox-58.0.1" ]
+      } ],
+      "uid" : "cd6aac8792b5be483fb2eb9c6f8a366a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

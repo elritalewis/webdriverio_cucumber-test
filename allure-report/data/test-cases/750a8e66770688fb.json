@@ -1,0 +1,56 @@
+{
+  "uid" : "750a8e66770688fb",
+  "name" : "When I select Interior and select \"interior stlye\"",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Interior and select \"interior stlye\"",
+  "historyId" : "49c039cf5905811284c183ceb6de5c40",
+  "time" : {
+    "start" : 1604811995966,
+    "stop" : 1604811995966,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Interior and select \"interior stlye\""
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.183"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "750a8e66770688fb.json",
+  "parameterValues" : [ "chrome-86.0.4240.183" ]
+}

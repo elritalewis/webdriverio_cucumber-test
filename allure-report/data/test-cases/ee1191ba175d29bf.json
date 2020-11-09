@@ -1,0 +1,56 @@
+{
+  "uid" : "ee1191ba175d29bf",
+  "name" : "Then \"side navigator\" section should fly out",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.Then \"side navigator\" section should fly out",
+  "historyId" : "a740bdf32beca68d733fcade40c0a050",
+  "time" : {
+    "start" : 1604812043703,
+    "stop" : 1604812043735,
+    "duration" : 32
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then \"side navigator\" section should fly out"
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-63.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee1191ba175d29bf.json",
+  "parameterValues" : [ "firefox-63.0" ]
+}

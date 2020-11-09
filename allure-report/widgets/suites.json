@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "bb0fe0eb2016453e51f3c4f1c8a1d004",
+    "name" : "Validating Cars purchase: Validating Mild Hybrids V60 Car",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 5,
+      "passed" : 64,
+      "unknown" : 0,
+      "total" : 70
+    }
+  }, {
+    "uid" : "cbb49aa1c9381f9465cc72da18ca29a8",
+    "name" : "Validating Volvo home page headers: Validating the header links",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 35,
+      "unknown" : 0,
+      "total" : 35
+    }
+  } ]
+}

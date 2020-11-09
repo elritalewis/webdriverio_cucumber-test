@@ -1,0 +1,144 @@
+{
+  "uid" : "58e1a32f522cd41b",
+  "name" : "Given I am on the volvo home page",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.Given I am on the volvo home page",
+  "historyId" : "b9d23f797a0467e9414b00fa17409964",
+  "time" : {
+    "start" : 1604852493636,
+    "stop" : 1604852518819,
+    "duration" : 25183
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the volvo home page"
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-64.0.3282.140"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e658f54abe596575",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852352703,
+        "stop" : 1604852370859,
+        "duration" : 18156
+      }
+    }, {
+      "uid" : "fbae963453337d09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850630041,
+        "stop" : 1604850644186,
+        "duration" : 14145
+      }
+    }, {
+      "uid" : "a3d8e95944a5adba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850203830,
+        "stop" : 1604850234473,
+        "duration" : 30643
+      }
+    }, {
+      "uid" : "5dba6f06fb8e93f3",
+      "status" : "broken",
+      "statusDetails" : "function timed out, ensure the promise resolves within 90000 milliseconds",
+      "time" : {
+        "start" : 1604849440282,
+        "stop" : 1604849530300,
+        "duration" : 90018
+      }
+    }, {
+      "uid" : "6e83f71ae63fe142",
+      "status" : "broken",
+      "statusDetails" : "function timed out, ensure the promise resolves within 90000 milliseconds",
+      "time" : {
+        "start" : 1604848327685,
+        "stop" : 1604848417700,
+        "duration" : 90015
+      }
+    }, {
+      "uid" : "1c313e1122546757",
+      "status" : "failed",
+      "statusDetails" : "expected 'www.volvocars.com' to equal 'A million more | Volvo Cars'",
+      "time" : {
+        "start" : 1604847927034,
+        "stop" : 1604847931957,
+        "duration" : 4923
+      }
+    }, {
+      "uid" : "6fdbef01da47abf6",
+      "status" : "failed",
+      "statusDetails" : "expected 'www.volvocars.com' to equal 'A million more | Volvo Cars'",
+      "time" : {
+        "start" : 1604847796370,
+        "stop" : 1604847802560,
+        "duration" : 6190
+      }
+    }, {
+      "uid" : "ef6b4bf02a8b355a",
+      "status" : "failed",
+      "statusDetails" : "expected 'www.volvocars.com' to equal 'A million more | Volvo Cars'",
+      "time" : {
+        "start" : 1604847722079,
+        "stop" : 1604847726115,
+        "duration" : 4036
+      }
+    }, {
+      "uid" : "162225ce02ea158",
+      "status" : "failed",
+      "statusDetails" : "expected 'www.volvocars.com' to equal 'A million more | Volvo Cars'",
+      "time" : {
+        "start" : 1604847666895,
+        "stop" : 1604847672225,
+        "duration" : 5330
+      }
+    }, {
+      "uid" : "5ede479d68d88f61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604845951661,
+        "stop" : 1604846021239,
+        "duration" : 69578
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "58e1a32f522cd41b.json",
+  "parameterValues" : [ "chrome-64.0.3282.140" ]
+}

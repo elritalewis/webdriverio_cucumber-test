@@ -1,0 +1,56 @@
+{
+  "uid" : "1a9df006192d5fe9",
+  "name" : "When I select a \"Mild hybrids\" \"V60\" car model",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select a \"Mild hybrids\" \"V60\" car model",
+  "historyId" : "6537b64fb6bea7bada8e85e8acb1759",
+  "time" : {
+    "start" : 1604847931961,
+    "stop" : 1604847931962,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select a \"Mild hybrids\" \"V60\" car model"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-64.0.3282.140"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a9df006192d5fe9.json",
+  "parameterValues" : [ "chrome-64.0.3282.140" ]
+}

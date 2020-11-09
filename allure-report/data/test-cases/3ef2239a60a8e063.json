@@ -1,0 +1,56 @@
+{
+  "uid" : "3ef2239a60a8e063",
+  "name" : "When I select \"B3 mild hybrid\" Momemtum car style",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select \"B3 mild hybrid\" Momemtum car style",
+  "historyId" : "c157ab1d0a51e4ed11ff5986cb184261",
+  "time" : {
+    "start" : 1604852413725,
+    "stop" : 1604852417530,
+    "duration" : 3805
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select \"B3 mild hybrid\" Momemtum car style"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-64.0.3282.140"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ef2239a60a8e063.json",
+  "parameterValues" : [ "chrome-64.0.3282.140" ]
+}

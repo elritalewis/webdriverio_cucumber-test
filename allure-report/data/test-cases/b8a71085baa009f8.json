@@ -1,0 +1,82 @@
+{
+  "uid" : "b8a71085baa009f8",
+  "name" : "When I see the header Cars and side navigator",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.When I see the header Cars and side navigator",
+  "historyId" : "6c86cb6eb97de775cd4288a187589ce9",
+  "time" : {
+    "start" : 1604852009325,
+    "stop" : 1604852011884,
+    "duration" : 2559
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I see the header Cars and side navigator"
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fea7ae1f91527e7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848822052,
+        "stop" : 1604848824713,
+        "duration" : 2661
+      }
+    }, {
+      "uid" : "bb5bb56e40402c3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604832025290,
+        "stop" : 1604832028624,
+        "duration" : 3334
+      }
+    }, {
+      "uid" : "4a17a91fa2b9d45c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823411188,
+        "stop" : 1604823413275,
+        "duration" : 2087
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8a71085baa009f8.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

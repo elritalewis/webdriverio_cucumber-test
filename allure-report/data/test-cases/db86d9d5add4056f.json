@@ -1,0 +1,56 @@
+{
+  "uid" : "db86d9d5add4056f",
+  "name" : "When I select Wheels and select \"wheel type\"",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Wheels and select \"wheel type\"",
+  "historyId" : "b6d058bc0e318dc2f3362f5bd1e92c98",
+  "time" : {
+    "start" : 1604837568071,
+    "stop" : 1604837574569,
+    "duration" : 6498
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Wheels and select \"wheel type\""
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-63.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db86d9d5add4056f.json",
+  "parameterValues" : [ "firefox-63.0" ]
+}

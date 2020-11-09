@@ -1,0 +1,82 @@
+{
+  "uid" : "12877969275ba2ca",
+  "name" : "When I select \"Momentum\" car style",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select \"Momentum\" car style",
+  "historyId" : "c6a92b68dfc2bc685ea898378af5c76a",
+  "time" : {
+    "start" : 1604852022764,
+    "stop" : 1604852027746,
+    "duration" : 4982
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select \"Momentum\" car style"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fb7527d942e8446a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848838470,
+        "stop" : 1604848843991,
+        "duration" : 5521
+      }
+    }, {
+      "uid" : "96b62511ce88538c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604832039434,
+        "stop" : 1604832045102,
+        "duration" : 5668
+      }
+    }, {
+      "uid" : "9eb66e7ab6a02728",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823426745,
+        "stop" : 1604823431981,
+        "duration" : 5236
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12877969275ba2ca.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

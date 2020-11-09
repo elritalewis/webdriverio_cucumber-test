@@ -1,0 +1,56 @@
+{
+  "uid" : "5ede479d68d88f61",
+  "name" : "Given I am on the volvo home page",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.Given I am on the volvo home page",
+  "historyId" : "b9d23f797a0467e9414b00fa17409964",
+  "time" : {
+    "start" : 1604845951661,
+    "stop" : 1604846021239,
+    "duration" : 69578
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the volvo home page"
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-64.0.3282.140"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ede479d68d88f61.json",
+  "parameterValues" : [ "chrome-64.0.3282.140" ]
+}

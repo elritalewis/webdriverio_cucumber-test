@@ -1,0 +1,58 @@
+{
+  "uid" : "76ef7178eaae38d8",
+  "name" : "Given I am on the volvo home page",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.Given I am on the volvo home page",
+  "historyId" : "321a75828e4fcbf41c6cfc0d511edab4",
+  "time" : {
+    "start" : 1604847667006,
+    "stop" : 1604847672279,
+    "duration" : 5273
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected 'www.volvocars.com' to equal 'A million more | Volvo Cars'",
+  "statusTrace" : "AssertionError: expected 'www.volvocars.com' to equal 'A million more | Volvo Cars'\n                    at World.<anonymous> (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\test\\stepDefinitions\\given.js:14:29)\n                    at World.executeSync (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the volvo home page"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-64.0.3282.140"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76ef7178eaae38d8.json",
+  "parameterValues" : [ "chrome-64.0.3282.140" ]
+}

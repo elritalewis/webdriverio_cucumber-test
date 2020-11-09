@@ -1,0 +1,138 @@
+{
+  "uid" : "cdd463c1ed37335d",
+  "name" : "Given I am on the volvo home page",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.Given I am on the volvo home page",
+  "historyId" : "f6e2ef23fba7a25db9cc7311cc165d15",
+  "time" : {
+    "start" : 1604851807530,
+    "stop" : 1604851818822,
+    "duration" : 11292
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the volvo home page"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.183"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9aafc39b5de98953",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851669824,
+        "stop" : 1604851686546,
+        "duration" : 16722
+      }
+    }, {
+      "uid" : "5e68423be9a131bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848605179,
+        "stop" : 1604848631396,
+        "duration" : 26217
+      }
+    }, {
+      "uid" : "ac92405cf459d232",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837423909,
+        "stop" : 1604837440376,
+        "duration" : 16467
+      }
+    }, {
+      "uid" : "97b488fdb1fcb9ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823198593,
+        "stop" : 1604823216018,
+        "duration" : 17425
+      }
+    }, {
+      "uid" : "bffd7e3a8d8f8214",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604818307503,
+        "stop" : 1604818342084,
+        "duration" : 34581
+      }
+    }, {
+      "uid" : "47ec16b68f1853c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604814304628,
+        "stop" : 1604814358049,
+        "duration" : 53421
+      }
+    }, {
+      "uid" : "3c36a6ba4f2348cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604813457988,
+        "stop" : 1604813483869,
+        "duration" : 25881
+      }
+    }, {
+      "uid" : "46265f05f6fe6eb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604812793890,
+        "stop" : 1604812840824,
+        "duration" : 46934
+      }
+    }, {
+      "uid" : "2b4959d2b514c0d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604811940197,
+        "stop" : 1604811978012,
+        "duration" : 37815
+      }
+    }, {
+      "uid" : "3b436905978520b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604763776070,
+        "stop" : 1604763802139,
+        "duration" : 26069
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdd463c1ed37335d.json",
+  "parameterValues" : [ "chrome-86.0.4240.183" ]
+}

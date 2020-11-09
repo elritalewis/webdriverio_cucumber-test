@@ -8,11 +8,13 @@
   "scripts": {
     "allure:history": "mkdir -p allure-report/history .test/reports/allure-results/history && cp -a allure-report/history ./test/reports/allure-results/",
     "allure-report": "allure generate --clean ./test/reports/allure-results && allure open",
-    "junit-report": "junit-viewer --results=./test/reports/junit-results --save=junit-results.html && open junit-results.html",
+    "junit-report": "junit-viewer --results=./test/reports/junit-results --save=junit-results.html && junit-results.html open",
     "test-sauce": "wdio ./test/config/wdio.sauce.conf.js",
     "test-browserstack": "wdio ./test/config/wdio.browserstack.conf.js",
     "test-local": "npm run allure:history && wdio ./test/config/wdio.local.conf.js",
-    "test-mobile": "wdio ./test/config/wdio.appium.conf.js"
+    "test-mobile": "wdio ./test/config/wdio.appium.conf.js",
+    "docker-compose": "docker-compose -f docker-compose.yml up --scale chrome=2",
+    "test-docker": "wdio ./test/config/wdio.docker.conf.js"
   },
   "repository": {
     "type": "git",
@@ -26,10 +28,14 @@
     "automation",
     "e2e",
     "test",
-    "cucumber"
+    "cucumber",
+    "docker",
+    "retry"
   ],
   "homepage": "https://bitbucket.org/elritalewis/webdriverio_cucumberfw-test#readme",
-  "dependencies": {},
+  "dependencies": {
+    "webdriver-image-comparison": "0.15.0"
+  },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
@@ -66,7 +72,9 @@
     "selenium-standalone": "^6.20.0",
     "underscore": "^1.11.0",
     "wdio-chromedriver-service": "^6.0.2",
-    "wdio-json-reporter": "^2.0.0"
+    "wdio-docker-service": "^1.5.0",
+    "wdio-json-reporter": "^2.0.0",
+    "wdio-rerun-service": "0.0.6"
   },
   "directories": {
     "test": "test"

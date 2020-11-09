@@ -1,0 +1,82 @@
+{
+  "uid" : "60cb1f2d85cf96fc",
+  "name" : "Given I am on the volvo home page",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.Given I am on the volvo home page",
+  "historyId" : "e96bd5e7c6c608bce931e414e0683ec4",
+  "time" : {
+    "start" : 1604851989652,
+    "stop" : 1604852007967,
+    "duration" : 18315
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the volvo home page"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4ac62d7070602df8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848808059,
+        "stop" : 1604848820200,
+        "duration" : 12141
+      }
+    }, {
+      "uid" : "2280625f7a337416",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604832013197,
+        "stop" : 1604832027836,
+        "duration" : 14639
+      }
+    }, {
+      "uid" : "602928cfd0be6c76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823401663,
+        "stop" : 1604823413301,
+        "duration" : 11638
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60cb1f2d85cf96fc.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

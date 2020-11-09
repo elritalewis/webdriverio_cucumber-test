@@ -1,0 +1,74 @@
+{
+  "uid" : "7ae8f99d7387ad50",
+  "name" : "When I click on \"side navigator\"",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.When I click on \"side navigator\"",
+  "historyId" : "aaab0e24fa97c01d56cabf0ec466525d",
+  "time" : {
+    "start" : 1604852401329,
+    "stop" : 1604852402447,
+    "duration" : 1118
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on \"side navigator\""
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-58.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5656fc6df55309bf",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847951211,
+        "stop" : 1604847951212,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4bdc66389fdccabc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847851070,
+        "stop" : 1604847851071,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ae8f99d7387ad50.json",
+  "parameterValues" : [ "firefox-58.0.1" ]
+}

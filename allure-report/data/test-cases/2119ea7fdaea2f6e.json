@@ -1,0 +1,130 @@
+{
+  "uid" : "2119ea7fdaea2f6e",
+  "name" : "When I select \"Shop\" to buy car",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select \"Shop\" to buy car",
+  "historyId" : "bc1463f2818313388aa7491f13dae2ab",
+  "time" : {
+    "start" : 1604851907157,
+    "stop" : 1604851915427,
+    "duration" : 8270
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select \"Shop\" to buy car"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-63.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bb69b409e996b1fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848696197,
+        "stop" : 1604848707774,
+        "duration" : 11577
+      }
+    }, {
+      "uid" : "75be4da759cf90d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837548205,
+        "stop" : 1604837559231,
+        "duration" : 11026
+      }
+    }, {
+      "uid" : "8dda66092fde78ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823286010,
+        "stop" : 1604823296662,
+        "duration" : 10652
+      }
+    }, {
+      "uid" : "91cab77540fa21c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604818364514,
+        "stop" : 1604818370304,
+        "duration" : 5790
+      }
+    }, {
+      "uid" : "1365157c165de9bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604814377035,
+        "stop" : 1604814385922,
+        "duration" : 8887
+      }
+    }, {
+      "uid" : "5f97f9aefade7ba1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604813526533,
+        "stop" : 1604813526533,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "924425757e8cdd6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604812865025,
+        "stop" : 1604812872826,
+        "duration" : 7801
+      }
+    }, {
+      "uid" : "78409601f2aa2369",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604812035811,
+        "stop" : 1604812035811,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a6821a7f7a121494",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604763844718,
+        "stop" : 1604763851015,
+        "duration" : 6297
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2119ea7fdaea2f6e.json",
+  "parameterValues" : [ "firefox-63.0" ]
+}

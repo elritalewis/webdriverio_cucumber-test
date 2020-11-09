@@ -1,0 +1,90 @@
+{
+  "uid" : "237db0fd4f1e5c06",
+  "name" : "Then I click on Summary",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.Then I click on Summary",
+  "historyId" : "157a78f5a2acd00fa45cb82d2ea7f561",
+  "time" : {
+    "start" : 1604852456699,
+    "stop" : 1604852456700,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on Summary"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-58.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e27d140f65c7c162",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604849661068,
+        "stop" : 1604849661069,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "717995f2b8ba9d0b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604848461381,
+        "stop" : 1604848461382,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a2550b909e475858",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847937486,
+        "stop" : 1604847937487,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e4bff5c59169a31d",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847837810,
+        "stop" : 1604847837811,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "237db0fd4f1e5c06.json",
+  "parameterValues" : [ "firefox-58.0.1" ]
+}

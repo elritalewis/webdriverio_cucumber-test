@@ -1,0 +1,56 @@
+{
+  "uid" : "20885ba8972a0a75",
+  "name" : "When I select Optional Equipment as Four-zone climate system",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Optional Equipment as Four-zone climate system",
+  "historyId" : "a6895c685fc74a58d0edf1ec7308373e",
+  "time" : {
+    "start" : 1604812890565,
+    "stop" : 1604812893091,
+    "duration" : 2526
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Optional Equipment as Four-zone climate system"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.183"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20885ba8972a0a75.json",
+  "parameterValues" : [ "chrome-86.0.4240.183" ]
+}

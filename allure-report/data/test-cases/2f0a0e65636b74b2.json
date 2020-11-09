@@ -1,0 +1,138 @@
+{
+  "uid" : "2f0a0e65636b74b2",
+  "name" : "When I select Optional Equipment as Four-zone climate system",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Optional Equipment as Four-zone climate system",
+  "historyId" : "a5b15dd5c692a72a780b53e81ab258bd",
+  "time" : {
+    "start" : 1604852568055,
+    "stop" : 1604852570606,
+    "duration" : 2551
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Optional Equipment as Four-zone climate system"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-64.0.3282.140"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3517c95b8cd70b11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852442756,
+        "stop" : 1604852445722,
+        "duration" : 2966
+      }
+    }, {
+      "uid" : "fc02c0a721b522e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850703174,
+        "stop" : 1604850705688,
+        "duration" : 2514
+      }
+    }, {
+      "uid" : "39a7261ded38ca56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850272252,
+        "stop" : 1604850274765,
+        "duration" : 2513
+      }
+    }, {
+      "uid" : "aa02a43bb044b9e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604849623531,
+        "stop" : 1604849628630,
+        "duration" : 5099
+      }
+    }, {
+      "uid" : "41591ed328e10109",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604848417106,
+        "stop" : 1604848417106,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b4de68c40228fce3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847931968,
+        "stop" : 1604847931968,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7bf150b03f8a0651",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847802567,
+        "stop" : 1604847802567,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "66c47b00076ac731",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847726545,
+        "stop" : 1604847726545,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "eb3c84bbc6722fac",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847672288,
+        "stop" : 1604847672288,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1ffd73f9faf9f057",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604846088540,
+        "stop" : 1604846091484,
+        "duration" : 2944
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f0a0e65636b74b2.json",
+  "parameterValues" : [ "chrome-64.0.3282.140" ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "be03cb8256f1b7f9",
+  "name" : "When I select Packages as Power Seats",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Packages as Power Seats",
+  "historyId" : "b903d0784c2b37faeba9e9cb63fd0081",
+  "time" : {
+    "start" : 1604848881884,
+    "stop" : 1604848892721,
+    "duration" : 10837
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Packages as Power Seats"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be03cb8256f1b7f9.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

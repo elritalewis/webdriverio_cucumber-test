@@ -1,0 +1,56 @@
+{
+  "uid" : "a135bc83235c82e4",
+  "name" : "When I select \"Momentum\" car style",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select \"Momentum\" car style",
+  "historyId" : "8a6fac4d5ee2a073db3cc0b5821eb1d5",
+  "time" : {
+    "start" : 1604847672284,
+    "stop" : 1604847672284,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select \"Momentum\" car style"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-64.0.3282.140"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a135bc83235c82e4.json",
+  "parameterValues" : [ "chrome-64.0.3282.140" ]
+}

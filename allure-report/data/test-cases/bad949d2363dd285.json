@@ -1,0 +1,56 @@
+{
+  "uid" : "bad949d2363dd285",
+  "name" : "When I click on \"Cars\"",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.When I click on \"Cars\"",
+  "historyId" : "64ac3d64805443f1fc21b43ccd528bc2",
+  "time" : {
+    "start" : 1604832028624,
+    "stop" : 1604832031666,
+    "duration" : 3042
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on \"Cars\""
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bad949d2363dd285.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

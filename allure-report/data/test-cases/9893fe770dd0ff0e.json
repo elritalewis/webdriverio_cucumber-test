@@ -1,0 +1,82 @@
+{
+  "uid" : "9893fe770dd0ff0e",
+  "name" : "When I select Interior and select \"interior stlye\"",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Interior and select \"interior stlye\"",
+  "historyId" : "16f17e64cd7bf730a3bcb196c593f964",
+  "time" : {
+    "start" : 1604852044463,
+    "stop" : 1604852055405,
+    "duration" : 10942
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Interior and select \"interior stlye\""
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a5ff9e86b78ade20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848861190,
+        "stop" : 1604848872389,
+        "duration" : 11199
+      }
+    }, {
+      "uid" : "d5502b5d32c5b410",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604832061916,
+        "stop" : 1604832074112,
+        "duration" : 12196
+      }
+    }, {
+      "uid" : "7746c38dfde87e76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823447020,
+        "stop" : 1604823456940,
+        "duration" : 9920
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9893fe770dd0ff0e.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

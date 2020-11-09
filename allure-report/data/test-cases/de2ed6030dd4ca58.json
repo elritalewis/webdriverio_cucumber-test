@@ -1,0 +1,56 @@
+{
+  "uid" : "de2ed6030dd4ca58",
+  "name" : "Then I click on Summary",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.Then I click on Summary",
+  "historyId" : "5f7036f5e4932ebded493dcae276b2ae",
+  "time" : {
+    "start" : 1604848898488,
+    "stop" : 1604848904070,
+    "duration" : 5582
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click on Summary"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de2ed6030dd4ca58.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

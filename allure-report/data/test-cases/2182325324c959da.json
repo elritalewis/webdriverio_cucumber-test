@@ -1,0 +1,82 @@
+{
+  "uid" : "2182325324c959da",
+  "name" : "When I click on \"side navigator\"",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.When I click on \"side navigator\"",
+  "historyId" : "cffe476e00d67353458b5896f253db96",
+  "time" : {
+    "start" : 1604852014561,
+    "stop" : 1604852016046,
+    "duration" : 1485
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on \"side navigator\""
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4029a478e27d4c69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848827430,
+        "stop" : 1604848828679,
+        "duration" : 1249
+      }
+    }, {
+      "uid" : "41500852240cfb26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604832032506,
+        "stop" : 1604832033835,
+        "duration" : 1329
+      }
+    }, {
+      "uid" : "3531374dcf38038d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823416200,
+        "stop" : 1604823417916,
+        "duration" : 1716
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2182325324c959da.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

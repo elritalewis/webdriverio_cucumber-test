@@ -1,0 +1,74 @@
+{
+  "uid" : "71e3184e8623d3c1",
+  "name" : "Then \"Cars\" section should fly out",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.Then \"Cars\" section should fly out",
+  "historyId" : "37f7f102e0dcc7a09e0ec81d6bf53522",
+  "time" : {
+    "start" : 1604852400971,
+    "stop" : 1604852401328,
+    "duration" : 357
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then \"Cars\" section should fly out"
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-58.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4388961c81bcfd9c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847951210,
+        "stop" : 1604847951211,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1b880d4e464295e8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847851069,
+        "stop" : 1604847851070,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71e3184e8623d3c1.json",
+  "parameterValues" : [ "firefox-58.0.1" ]
+}

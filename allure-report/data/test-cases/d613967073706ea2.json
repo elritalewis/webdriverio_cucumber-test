@@ -1,0 +1,226 @@
+{
+  "uid" : "d613967073706ea2",
+  "name" : "Hook",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.Hook",
+  "historyId" : "8a0b4b0fb8f396c9408c5afac0f00996",
+  "time" : {
+    "start" : 1604852523146,
+    "stop" : 1604852523148,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-64.0.3282.140"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5fe85e930528c16e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852493629,
+        "stop" : 1604852493634,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "f42ab4331b9eec6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852375169,
+        "stop" : 1604852375171,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "85088aa77423f910",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852352699,
+        "stop" : 1604852352702,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "7ee3752ad18d8cb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850647525,
+        "stop" : 1604850647526,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a4076ec9a757bfb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850630028,
+        "stop" : 1604850630039,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "d24ab2f864352f4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850239218,
+        "stop" : 1604850239219,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3eb99c4c6d2e6f48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850203822,
+        "stop" : 1604850203829,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "bae3e81ec0c4a167",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604849530321,
+        "stop" : 1604849530321,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d41c3c18d3fe88bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604849440270,
+        "stop" : 1604849440280,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "23562fa05b68b319",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848417710,
+        "stop" : 1604848417711,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c74f5b9c2d0afd1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848327682,
+        "stop" : 1604848327684,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "d6d7219a34ac51fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604847931963,
+        "stop" : 1604847931965,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "e8b7850746b38bd5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604847927029,
+        "stop" : 1604847927033,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "4bddced550419cf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604847802565,
+        "stop" : 1604847802566,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1bd9716c6fa2aa0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604847796364,
+        "stop" : 1604847796368,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "737268358a28a630",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604847726121,
+        "stop" : 1604847726122,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f4bcb836eef5d18b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604847722075,
+        "stop" : 1604847722078,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "4297ed8b21b38c17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604847672232,
+        "stop" : 1604847672233,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7bbd6297a71aff85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604847666891,
+        "stop" : 1604847666894,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "f9ea3772132c5032",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604846034338,
+        "stop" : 1604846034339,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f6f30fc22fdd4b7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604845951655,
+        "stop" : 1604845951659,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d613967073706ea2.json",
+  "parameterValues" : [ "chrome-64.0.3282.140" ]
+}

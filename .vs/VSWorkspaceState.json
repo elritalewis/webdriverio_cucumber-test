@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\test",
+    "\\test\\config",
+    "\\test\\custom-rerun-directory",
+    "\\test\\features",
+    "\\test\\pageobjects"
+  ],
+  "SelectedNode": "\\test\\config\\wdio.docker.conf.js",
+  "PreviewInSolutionExplorer": false
+}

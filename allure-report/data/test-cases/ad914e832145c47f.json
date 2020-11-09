@@ -1,0 +1,140 @@
+{
+  "uid" : "ad914e832145c47f",
+  "name" : "When I select \"Momentum\" car style",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select \"Momentum\" car style",
+  "historyId" : "fd5c7c76ecdb5ce4c0c367bc7515a6af",
+  "time" : {
+    "start" : 1604851835459,
+    "stop" : 1604851838871,
+    "duration" : 3412
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select \"Momentum\" car style"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.183"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "266cc914c8fddcf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851747738,
+        "stop" : 1604851750654,
+        "duration" : 2916
+      }
+    }, {
+      "uid" : "1f16b8678551d160",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848674837,
+        "stop" : 1604848678970,
+        "duration" : 4133
+      }
+    }, {
+      "uid" : "5e2b2231f2262a12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837465675,
+        "stop" : 1604837469888,
+        "duration" : 4213
+      }
+    }, {
+      "uid" : "760432b7cf148796",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823234233,
+        "stop" : 1604823238170,
+        "duration" : 3937
+      }
+    }, {
+      "uid" : "607ec6257550ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604818364885,
+        "stop" : 1604818368035,
+        "duration" : 3150
+      }
+    }, {
+      "uid" : "43d8d34b59b9825b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604814374675,
+        "stop" : 1604814381534,
+        "duration" : 6859
+      }
+    }, {
+      "uid" : "a11febcbb2f5369c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604813498356,
+        "stop" : 1604813506067,
+        "duration" : 7711
+      }
+    }, {
+      "uid" : "3e02f9a2ad992c4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604812865140,
+        "stop" : 1604812868263,
+        "duration" : 3123
+      }
+    }, {
+      "uid" : "a7137ca090a135d",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a class=\"cta__bluePromo--a9qwT cta__promo--1u8N3 cta__default--26AFM  cta__iconAfter--1mVZD cta__default--26AFM trim-footer__cta--3erUQ\" aria-label=\"Select Momentum\" tabindex=\"0\" href=\"/intl/build/estate/v60/momentum#filterConventional|engines\">...</a> is not clickable at point (835, 553). Other element would receive the click: <a class=\"cta__bluePromo--a9qwT cta__promo--1u8N3 cta__default--26AFM  cta__iconAfter--1mVZD cta__default--26AFM trim-footer__cta--3erUQ\" aria-label=\"Select Momentum\" tabindex=\"0\" href=\"/intl/build/estate/v60/momentum#filterConventional|engines\">...</a>\n                  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604811987213,
+        "stop" : 1604811995963,
+        "duration" : 8750
+      }
+    }, {
+      "uid" : "19d49270e4742286",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a class=\"cta__bluePromo--a9qwT cta__promo--1u8N3 cta__default--26AFM  cta__iconAfter--1mVZD cta__default--26AFM trim-footer__cta--3erUQ\" aria-label=\"Select Momentum\" tabindex=\"0\" href=\"/intl/build/estate/v60/momentum#filterConventional|engines\">...</a> is not clickable at point (835, 553). Other element would receive the click: <a class=\"cta__bluePromo--a9qwT cta__promo--1u8N3 cta__default--26AFM  cta__iconAfter--1mVZD cta__default--26AFM trim-footer__cta--3erUQ\" aria-label=\"Select Momentum\" tabindex=\"0\" href=\"/intl/build/estate/v60/momentum#filterConventional|engines\">...</a>\n                  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604763820053,
+        "stop" : 1604763834164,
+        "duration" : 14111
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad914e832145c47f.json",
+  "parameterValues" : [ "chrome-86.0.4240.183" ]
+}

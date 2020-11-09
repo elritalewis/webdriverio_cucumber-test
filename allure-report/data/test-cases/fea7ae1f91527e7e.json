@@ -1,0 +1,56 @@
+{
+  "uid" : "fea7ae1f91527e7e",
+  "name" : "When I see the header Cars and side navigator",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.When I see the header Cars and side navigator",
+  "historyId" : "6c86cb6eb97de775cd4288a187589ce9",
+  "time" : {
+    "start" : 1604848822052,
+    "stop" : 1604848824713,
+    "duration" : 2661
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I see the header Cars and side navigator"
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fea7ae1f91527e7e.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

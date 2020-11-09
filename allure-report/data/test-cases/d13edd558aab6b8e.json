@@ -1,0 +1,58 @@
+{
+  "uid" : "d13edd558aab6b8e",
+  "name" : "When I click on \"Cars\"",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I click on \"Cars\"",
+  "historyId" : "fa6b02d30570d37a8eb494d5b1aec1f7",
+  "time" : {
+    "start" : 1604812035656,
+    "stop" : 1604812035808,
+    "duration" : 152
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Element <button class=\"ak b be bf bg bh bi bj bk bl bm bn bo bp bq br bs bt bu bv q\" type=\"button\"> is not clickable at point (1254.091682434082,32) because another element <div class=\"optanon-alert-box-bottom-top\"> obscures it",
+  "statusTrace" : "element click intercepted: Element <button class=\"ak b be bf bg bh bi bj bk bl bm bn bo bp bq br bs bt bu bv q\" type=\"button\"> is not clickable at point (1254.091682434082,32) because another element <div class=\"optanon-alert-box-bottom-top\"> obscures it\n                    at Object.getErrorFromResponseBody (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\webdriver\\build\\utils.js:94:12)\n                    at WebDriverRequest._request (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\webdriver\\build\\request.js:133:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\webdriverio\\build\\middlewares.js:17:32)\n                    at Element.runCommandWithHooks (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:70:25)\n                    at Element.runCommandWithHooks (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at VolvoHomePage.clickOnHeaderNameCars (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\test\\pageobjects\\VolvoHome.page.js:49:25)\n                    at World.<anonymous> (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\test\\stepDefinitions\\when.js:22:24)\n                    at World.executeSync (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on \"Cars\""
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-63.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d13edd558aab6b8e.json",
+  "parameterValues" : [ "firefox-63.0" ]
+}

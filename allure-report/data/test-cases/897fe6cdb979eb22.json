@@ -1,0 +1,138 @@
+{
+  "uid" : "897fe6cdb979eb22",
+  "name" : "When I select Exterior styling and click on Continue to Packages",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Exterior styling and click on Continue to Packages",
+  "historyId" : "aa752de69c13965419bcb97338d3f91c",
+  "time" : {
+    "start" : 1604852557498,
+    "stop" : 1604852562768,
+    "duration" : 5270
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Exterior styling and click on Continue to Packages"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-64.0.3282.140"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8131e90b1c864d57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852429923,
+        "stop" : 1604852436783,
+        "duration" : 6860
+      }
+    }, {
+      "uid" : "3be7ebd6173bdf58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850692626,
+        "stop" : 1604850698042,
+        "duration" : 5416
+      }
+    }, {
+      "uid" : "8829f6d59f6f0fde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850261127,
+        "stop" : 1604850266740,
+        "duration" : 5613
+      }
+    }, {
+      "uid" : "107cf3b7e553389",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604849578268,
+        "stop" : 1604849609755,
+        "duration" : 31487
+      }
+    }, {
+      "uid" : "43e1f7bf28413bd7",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604848417104,
+        "stop" : 1604848417105,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a45b60e5f6c72045",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847931967,
+        "stop" : 1604847931967,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "419eb742a98a8acc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847802566,
+        "stop" : 1604847802566,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9c23cfbf72ccb5ce",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847726544,
+        "stop" : 1604847726544,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a041be43731824fa",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604847672286,
+        "stop" : 1604847672287,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e755405e8a8e6dd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604846076259,
+        "stop" : 1604846082485,
+        "duration" : 6226
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "897fe6cdb979eb22.json",
+  "parameterValues" : [ "chrome-64.0.3282.140" ]
+}

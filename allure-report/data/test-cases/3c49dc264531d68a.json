@@ -1,0 +1,82 @@
+{
+  "uid" : "3c49dc264531d68a",
+  "name" : "When I select Exterior styling and click on Continue to Packages",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Exterior styling and click on Continue to Packages",
+  "historyId" : "4cd3f739e12029d8dbb766e18ec7869f",
+  "time" : {
+    "start" : 1604852055405,
+    "stop" : 1604852066603,
+    "duration" : 11198
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Exterior styling and click on Continue to Packages"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "967cf7fefc0ea5d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848872389,
+        "stop" : 1604848881884,
+        "duration" : 9495
+      }
+    }, {
+      "uid" : "ab976cd4394d8dd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604832074112,
+        "stop" : 1604832085580,
+        "duration" : 11468
+      }
+    }, {
+      "uid" : "1241633c90ac9e40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823456940,
+        "stop" : 1604823467820,
+        "duration" : 10880
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c49dc264531d68a.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

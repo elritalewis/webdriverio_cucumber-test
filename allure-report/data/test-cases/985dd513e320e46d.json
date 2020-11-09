@@ -1,0 +1,138 @@
+{
+  "uid" : "985dd513e320e46d",
+  "name" : "When I select Packages as Power Seats",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Packages as Power Seats",
+  "historyId" : "4338d662d832810d2b00af44b6c8bcd7",
+  "time" : {
+    "start" : 1604851858087,
+    "stop" : 1604851863161,
+    "duration" : 5074
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Packages as Power Seats"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.183"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "22b9ce26a246c06b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851767324,
+        "stop" : 1604851772110,
+        "duration" : 4786
+      }
+    }, {
+      "uid" : "268b746b678cc0c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848704540,
+        "stop" : 1604848710015,
+        "duration" : 5475
+      }
+    }, {
+      "uid" : "9b9c97cfd5641609",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837488971,
+        "stop" : 1604837495359,
+        "duration" : 6388
+      }
+    }, {
+      "uid" : "3505b944268b772c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823257506,
+        "stop" : 1604823263279,
+        "duration" : 5773
+      }
+    }, {
+      "uid" : "ee45c7780cceb54e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604818385126,
+        "stop" : 1604818390183,
+        "duration" : 5057
+      }
+    }, {
+      "uid" : "d2397c17be693bcc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604814398301,
+        "stop" : 1604814403001,
+        "duration" : 4700
+      }
+    }, {
+      "uid" : "bf5bad6720159e22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604813523388,
+        "stop" : 1604813528277,
+        "duration" : 4889
+      }
+    }, {
+      "uid" : "bf4a293106ae7af5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604812885599,
+        "stop" : 1604812890564,
+        "duration" : 4965
+      }
+    }, {
+      "uid" : "96d6d5103248a6cb",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604811995967,
+        "stop" : 1604811995967,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3734fcd7bccfa32d",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1604763834168,
+        "stop" : 1604763834171,
+        "duration" : 3
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "985dd513e320e46d.json",
+  "parameterValues" : [ "chrome-86.0.4240.183" ]
+}

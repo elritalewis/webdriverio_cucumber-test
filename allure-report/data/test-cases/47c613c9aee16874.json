@@ -1,0 +1,98 @@
+{
+  "uid" : "47c613c9aee16874",
+  "name" : "Hook",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.Hook",
+  "historyId" : "74a73e44012a8cac4327832b05d83d93",
+  "time" : {
+    "start" : 1604852402649,
+    "stop" : 1604852402650,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-58.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "21ff8e33439dc318",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852367200,
+        "stop" : 1604852367211,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "abb5e67a50d966eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604847951212,
+        "stop" : 1604847951214,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "8b0c871a05983f26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604847950300,
+        "stop" : 1604847950307,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "4a00da34f3ff9b4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604847851072,
+        "stop" : 1604847851074,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1b585b83187dca37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604847849839,
+        "stop" : 1604847849845,
+        "duration" : 6
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47c613c9aee16874.json",
+  "parameterValues" : [ "firefox-58.0.1" ]
+}

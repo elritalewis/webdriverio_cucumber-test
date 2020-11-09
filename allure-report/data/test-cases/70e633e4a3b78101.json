@@ -1,0 +1,226 @@
+{
+  "uid" : "70e633e4a3b78101",
+  "name" : "Hook",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.Hook",
+  "historyId" : "32a9c1e19e74ec6a905d76858f736576",
+  "time" : {
+    "start" : 1604851868224,
+    "stop" : 1604851868225,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.183"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "295ea4459817031d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851807523,
+        "stop" : 1604851807529,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "5d88b1765cc049cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851776714,
+        "stop" : 1604851776714,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a0fc1a65c616626a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851669812,
+        "stop" : 1604851669820,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "f2b6a55c06c32d54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848715038,
+        "stop" : 1604848715039,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3aa8886fa95f3ce8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848605170,
+        "stop" : 1604848605178,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "37f6a92929917c0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837500325,
+        "stop" : 1604837500326,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "849f4b4a1a00da98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837423904,
+        "stop" : 1604837423908,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "7eafe38fe49db29f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823269164,
+        "stop" : 1604823269165,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "423c1719fe71e7c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823198585,
+        "stop" : 1604823198592,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "14eb12f20c6152d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604818394654,
+        "stop" : 1604818394655,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "350812c8c472e9bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604818307499,
+        "stop" : 1604818307502,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "a2bfba8bd5362b58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604814407681,
+        "stop" : 1604814407682,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "15777f2e941f1366",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604814304624,
+        "stop" : 1604814304627,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "e83d1de385c311e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604813532744,
+        "stop" : 1604813532744,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ed283c8c0e5c3b4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604813457980,
+        "stop" : 1604813457987,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "6e5a7ee4e9d05d41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604812895392,
+        "stop" : 1604812895393,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c80d52aebfa22800",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604812793875,
+        "stop" : 1604812793887,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "fd8e1d50198a56bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604811995968,
+        "stop" : 1604811995969,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "680f42d5ef928211",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604811940194,
+        "stop" : 1604811940196,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1c516282ea00fa86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604763834173,
+        "stop" : 1604763834174,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "afbbbea2e484cbe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604763776062,
+        "stop" : 1604763776066,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70e633e4a3b78101.json",
+  "parameterValues" : [ "chrome-86.0.4240.183" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "19d49270e4742286",
+  "name" : "When I select \"Momentum\" car style",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select \"Momentum\" car style",
+  "historyId" : "fd5c7c76ecdb5ce4c0c367bc7515a6af",
+  "time" : {
+    "start" : 1604763820053,
+    "stop" : 1604763834164,
+    "duration" : 14111
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element click intercepted: Element <a class=\"cta__bluePromo--a9qwT cta__promo--1u8N3 cta__default--26AFM  cta__iconAfter--1mVZD cta__default--26AFM trim-footer__cta--3erUQ\" aria-label=\"Select Momentum\" tabindex=\"0\" href=\"/intl/build/estate/v60/momentum#filterConventional|engines\">...</a> is not clickable at point (835, 553). Other element would receive the click: <a class=\"cta__bluePromo--a9qwT cta__promo--1u8N3 cta__default--26AFM  cta__iconAfter--1mVZD cta__default--26AFM trim-footer__cta--3erUQ\" aria-label=\"Select Momentum\" tabindex=\"0\" href=\"/intl/build/estate/v60/momentum#filterConventional|engines\">...</a>\n                  (Session info: chrome=86.0.4240.183)",
+  "statusTrace" : "element click intercepted: Element <a class=\"cta__bluePromo--a9qwT cta__promo--1u8N3 cta__default--26AFM  cta__iconAfter--1mVZD cta__default--26AFM trim-footer__cta--3erUQ\" aria-label=\"Select Momentum\" tabindex=\"0\" href=\"/intl/build/estate/v60/momentum#filterConventional|engines\">...</a> is not clickable at point (835, 553). Other element would receive the click: <a class=\"cta__bluePromo--a9qwT cta__promo--1u8N3 cta__default--26AFM  cta__iconAfter--1mVZD cta__default--26AFM trim-footer__cta--3erUQ\" aria-label=\"Select Momentum\" tabindex=\"0\" href=\"/intl/build/estate/v60/momentum#filterConventional|engines\">...</a>\n                  (Session info: chrome=86.0.4240.183)\n                    at Object.getErrorFromResponseBody (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\webdriver\\build\\utils.js:94:12)\n                    at WebDriverRequest._request (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\webdriver\\build\\request.js:133:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\webdriverio\\build\\middlewares.js:17:32)\n                    at Element.runCommandWithHooks (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:70:25)\n                    at Element.runCommandWithHooks (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at VolvoCarShopSectionPage.clickOnCarStyleMomentum (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\test\\pageobjects\\VolvoCarShopSection.page.js:101:27)\n                    at World.<anonymous> (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\test\\stepDefinitions\\when.js:51:32)\n                    at World.executeSync (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select \"Momentum\" car style"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.183"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19d49270e4742286.json",
+  "parameterValues" : [ "chrome-86.0.4240.183" ]
+}

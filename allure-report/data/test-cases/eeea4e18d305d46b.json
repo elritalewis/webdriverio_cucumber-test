@@ -1,0 +1,82 @@
+{
+  "uid" : "eeea4e18d305d46b",
+  "name" : "When I select \"B3 mild hybrid\" Momemtum car style",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select \"B3 mild hybrid\" Momemtum car style",
+  "historyId" : "1d168f288b2166ab7262d44e4ae5409e",
+  "time" : {
+    "start" : 1604852027747,
+    "stop" : 1604852033005,
+    "duration" : 5258
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select \"B3 mild hybrid\" Momemtum car style"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9930c4621718ab20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848843991,
+        "stop" : 1604848849990,
+        "duration" : 5999
+      }
+    }, {
+      "uid" : "22ecdf5deb546240",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604832045102,
+        "stop" : 1604832049962,
+        "duration" : 4860
+      }
+    }, {
+      "uid" : "d37c0a4de103604c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823431981,
+        "stop" : 1604823436780,
+        "duration" : 4799
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eeea4e18d305d46b.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

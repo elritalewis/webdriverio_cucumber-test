@@ -1,0 +1,82 @@
+{
+  "uid" : "119b12f3ce48e8dd",
+  "name" : "When I select Wheels and select \"wheel type\"",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Wheels and select \"wheel type\"",
+  "historyId" : "ea0b1da52719314e6830d9e964ec22ff",
+  "time" : {
+    "start" : 1604852033005,
+    "stop" : 1604852044463,
+    "duration" : 11458
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Wheels and select \"wheel type\""
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-82.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "600a3129b3203362",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848849991,
+        "stop" : 1604848861189,
+        "duration" : 11198
+      }
+    }, {
+      "uid" : "4f77d9b0f809a3d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604832049962,
+        "stop" : 1604832061915,
+        "duration" : 11953
+      }
+    }, {
+      "uid" : "fa1fadff84305551",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823436780,
+        "stop" : 1604823447020,
+        "duration" : 10240
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "119b12f3ce48e8dd.json",
+  "parameterValues" : [ "firefox-82.0" ]
+}

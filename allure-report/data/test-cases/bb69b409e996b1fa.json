@@ -1,0 +1,56 @@
+{
+  "uid" : "bb69b409e996b1fa",
+  "name" : "When I select \"Shop\" to buy car",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select \"Shop\" to buy car",
+  "historyId" : "bc1463f2818313388aa7491f13dae2ab",
+  "time" : {
+    "start" : 1604848696197,
+    "stop" : 1604848707774,
+    "duration" : 11577
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select \"Shop\" to buy car"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-63.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb69b409e996b1fa.json",
+  "parameterValues" : [ "firefox-63.0" ]
+}

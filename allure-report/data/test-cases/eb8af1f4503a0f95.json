@@ -1,0 +1,58 @@
+{
+  "uid" : "eb8af1f4503a0f95",
+  "name" : "When I select Wheels and select \"wheel type\"",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.When I select Wheels and select \"wheel type\"",
+  "historyId" : "44564a236bbe28f7ea5c7a420600d698",
+  "time" : {
+    "start" : 1604849644867,
+    "stop" : 1604849661057,
+    "duration" : 16190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call click on element with selector \"//span[contains(text(),'5-Spoke Black Diamond')]\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"//span[contains(text(),'5-Spoke Black Diamond')]\" because element wasn't found\n                    at Object.implicitWait [as default] (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:26:19)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\webdriverio\\build\\middlewares.js:13:29)\n                    at Element.runCommandWithHooks (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:70:25)\n                    at Element.runCommandWithHooks (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at VolvoCarShopSectionPage.selectCarWheelsType (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\test\\pageobjects\\VolvoCarShopSection.page.js:154:24)\n                    at World.<anonymous> (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\test\\stepDefinitions\\when.js:67:32)\n                    at World.executeSync (C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\Users\\user\\source\\repos\\webdriverio_cucumberFW-test\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select Wheels and select \"wheel type\""
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-58.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb8af1f4503a0f95.json",
+  "parameterValues" : [ "firefox-58.0.1" ]
+}

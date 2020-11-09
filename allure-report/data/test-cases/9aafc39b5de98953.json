@@ -1,0 +1,56 @@
+{
+  "uid" : "9aafc39b5de98953",
+  "name" : "Given I am on the volvo home page",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.Given I am on the volvo home page",
+  "historyId" : "f6e2ef23fba7a25db9cc7311cc165d15",
+  "time" : {
+    "start" : 1604851669824,
+    "stop" : 1604851686546,
+    "duration" : 16722
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the volvo home page"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.183"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9aafc39b5de98953.json",
+  "parameterValues" : [ "chrome-86.0.4240.183" ]
+}

@@ -1,0 +1,138 @@
+{
+  "uid" : "22dc0c28b25a1fa1",
+  "name" : "Given I am on the volvo home page",
+  "fullName" : "Validating Volvo home page headers: Validating the header links.Given I am on the volvo home page",
+  "historyId" : "178cf2ce941b1db5df3ae9fef9f436e6",
+  "time" : {
+    "start" : 1604851809816,
+    "stop" : 1604851822301,
+    "duration" : 12485
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the volvo home page"
+  }, {
+    "name" : "package",
+    "value" : "Validating Volvo home page headers: Validating the header links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.183"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c5a69aea0b07e2c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851669787,
+        "stop" : 1604851688964,
+        "duration" : 19177
+      }
+    }, {
+      "uid" : "1b0ba103fb66e3a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604848605370,
+        "stop" : 1604848628258,
+        "duration" : 22888
+      }
+    }, {
+      "uid" : "e7b170f7bdd8f580",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837423907,
+        "stop" : 1604837442273,
+        "duration" : 18366
+      }
+    }, {
+      "uid" : "e1cecd2db50d1ed6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604823198591,
+        "stop" : 1604823216033,
+        "duration" : 17442
+      }
+    }, {
+      "uid" : "ef0ae3c0f5ae648",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604818307236,
+        "stop" : 1604818332901,
+        "duration" : 25665
+      }
+    }, {
+      "uid" : "3af16bb1f2305f55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604814304831,
+        "stop" : 1604814354559,
+        "duration" : 49728
+      }
+    }, {
+      "uid" : "a3cc6398d19d2a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604813457841,
+        "stop" : 1604813486032,
+        "duration" : 28191
+      }
+    }, {
+      "uid" : "7806bd3e86f42be1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604812793841,
+        "stop" : 1604812841698,
+        "duration" : 47857
+      }
+    }, {
+      "uid" : "4fefcf395a474e1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604811940194,
+        "stop" : 1604811970747,
+        "duration" : 30553
+      }
+    }, {
+      "uid" : "308e03f15591a735",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604763776093,
+        "stop" : 1604763797856,
+        "duration" : 21763
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22dc0c28b25a1fa1.json",
+  "parameterValues" : [ "chrome-86.0.4240.183" ]
+}

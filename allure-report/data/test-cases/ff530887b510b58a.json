@@ -1,0 +1,143 @@
+{
+  "uid" : "ff530887b510b58a",
+  "name" : "Given I am on the volvo home page",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.Given I am on the volvo home page",
+  "historyId" : "321a75828e4fcbf41c6cfc0d511edab4",
+  "time" : {
+    "start" : 1604852493657,
+    "stop" : 1604852520691,
+    "duration" : 27034
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the volvo home page"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-64.0.3282.140"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "31633fe06e677dfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852352766,
+        "stop" : 1604852388622,
+        "duration" : 35856
+      }
+    }, {
+      "uid" : "6f950012ab8bebca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850630058,
+        "stop" : 1604850655313,
+        "duration" : 25255
+      }
+    }, {
+      "uid" : "31ae9d782fd1d4ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850203368,
+        "stop" : 1604850220317,
+        "duration" : 16949
+      }
+    }, {
+      "uid" : "d9bcde69056ff082",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604849440079,
+        "stop" : 1604849473746,
+        "duration" : 33667
+      }
+    }, {
+      "uid" : "add51858c56a80be",
+      "status" : "broken",
+      "statusDetails" : "function timed out, ensure the promise resolves within 90000 milliseconds",
+      "time" : {
+        "start" : 1604848327075,
+        "stop" : 1604848417093,
+        "duration" : 90018
+      }
+    }, {
+      "uid" : "6b233d83624bff16",
+      "status" : "failed",
+      "statusDetails" : "expected 'www.volvocars.com' to equal 'A million more | Volvo Cars'",
+      "time" : {
+        "start" : 1604847927438,
+        "stop" : 1604847931958,
+        "duration" : 4520
+      }
+    }, {
+      "uid" : "8d73d0747ed6ae46",
+      "status" : "failed",
+      "statusDetails" : "expected 'www.volvocars.com' to equal 'A million more | Volvo Cars'",
+      "time" : {
+        "start" : 1604847796240,
+        "stop" : 1604847802561,
+        "duration" : 6321
+      }
+    }, {
+      "uid" : "56561acde810308b",
+      "status" : "failed",
+      "statusDetails" : "expected 'www.volvocars.com' to equal 'A million more | Volvo Cars'",
+      "time" : {
+        "start" : 1604847722317,
+        "stop" : 1604847726539,
+        "duration" : 4222
+      }
+    }, {
+      "uid" : "76ef7178eaae38d8",
+      "status" : "failed",
+      "statusDetails" : "expected 'www.volvocars.com' to equal 'A million more | Volvo Cars'",
+      "time" : {
+        "start" : 1604847667006,
+        "stop" : 1604847672279,
+        "duration" : 5273
+      }
+    }, {
+      "uid" : "91ab648e54000a9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604845951654,
+        "stop" : 1604846032525,
+        "duration" : 80871
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff530887b510b58a.json",
+  "parameterValues" : [ "chrome-64.0.3282.140" ]
+}

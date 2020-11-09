@@ -1,0 +1,93 @@
+{
+  "uid" : "3feb292e393538a7",
+  "name" : "Given I am on the volvo home page",
+  "fullName" : "Validating Cars purchase: Validating Mild Hybrids V60 Car.Given I am on the volvo home page",
+  "historyId" : "4b169a2cee46aca24513a67b612eacbb",
+  "time" : {
+    "start" : 1604852414533,
+    "stop" : 1604852426025,
+    "duration" : 11492
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the volvo home page"
+  }, {
+    "name" : "package",
+    "value" : "Validating Cars purchase: Validating Mild Hybrids V60 Car"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-58.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "576d2fb74116ee7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604849457741,
+        "stop" : 1604849494574,
+        "duration" : 36833
+      }
+    }, {
+      "uid" : "83e13c447b7d6439",
+      "status" : "broken",
+      "statusDetails" : "function timed out, ensure the promise resolves within 90000 milliseconds",
+      "time" : {
+        "start" : 1604848371347,
+        "stop" : 1604848461361,
+        "duration" : 90014
+      }
+    }, {
+      "uid" : "e7ae7d9f0a8269c8",
+      "status" : "broken",
+      "statusDetails" : "Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.volvocars.com/intl/v/car-safety/a-million-more&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.volvocars.com.",
+      "time" : {
+        "start" : 1604847936330,
+        "stop" : 1604847937476,
+        "duration" : 1146
+      }
+    }, {
+      "uid" : "4f5b3e2a0e0be428",
+      "status" : "broken",
+      "statusDetails" : "Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.volvocars.com/intl/v/car-safety/a-million-more&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.volvocars.com.",
+      "time" : {
+        "start" : 1604847835993,
+        "stop" : 1604847837801,
+        "duration" : 1808
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3feb292e393538a7.json",
+  "parameterValues" : [ "firefox-58.0.1" ]
+}
