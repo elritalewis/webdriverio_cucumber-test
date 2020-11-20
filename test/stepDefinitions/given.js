@@ -4,7 +4,7 @@ import volvoHomePage from '../pageobjects/VolvoHome.Page';
 
 
 
-// *** belongs to Yahoo serch feature
+
 Given(/^I am on the volvo home page$/, function () {
     volvoHomePage.open();
     browser.getTitle().should.equal('A million more | Volvo Cars');
